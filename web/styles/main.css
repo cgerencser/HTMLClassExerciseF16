@@ -1,4 +1,31 @@
 *{
     font-family: Calibri;
 }
-header 
+h1.welcome:first-letter{
+    font-size: 3em;
+}
+img.pumpkin{
+    float: left;
+}
+h1.title{
+    color: orange;
+    font-style: italic;
+    text-shadow:2px 2px #000000;
+}
+header{
+    text-indent: 1em;
+}
+a{
+    color:orange;
+    font-weight: bold;
+}
+a:hover{
+    color:green;
+}
+li{
+    margin: 0 0 10px 0;
+}
+footer{
+    text-align: center;
+    font-size: small;
+}
